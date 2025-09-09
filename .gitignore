@@ -1,0 +1,14 @@
+# Arquivo .gitignore para projetos Python
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Caches do Python e de testes
+__pycache__/
+.pytest_cache/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
