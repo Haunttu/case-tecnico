@@ -74,9 +74,3 @@ DELETE /users/{id} → remover usuário
 Chamadas:
 
 GET /calls/consume → consome API externa
-
-7. Testes
-
-Como rodar os testes (se tiver):
-
-pytest
